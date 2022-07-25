@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<title>JavaScript Form Validation using a sample registration form</title>
+<meta name="keywords" content="example, JavaScript Form Validation, Sample registration form" />
+<meta name="description" content="This document is an example of JavaScript Form Validation using a sample registration form. " />
+<link rel='stylesheet' href='js-form-validation.css' type='text/css' />
+<script src="sample-registration-form-validation.js"></script>
+</head>
+<body style="font-size: 20px; background-color: cornflowerblue;" onload="document.registration.userid.focus();">
+    
+<h1>Registration Form</h1>
+Use tab keys to move from one input field to the next.
+<form name='registration' onSubmit="return formValidation();">
+<ul>
+<li><label for="userid">User id:</label></li>
+<input type="text" name="userid" size="12" /><br>
+<li><label for="passid">Password:</label></li>
+<input type="password" name="passid" size="12" /><br>
+<li><label for="username">Name:</label></li>
+<input type="text" name="username" size="50" /><br>
+<li><label for="address">Address:</label></li>
+<input type="text" name="address" size="50" /><br>
+<li><label for="country">Country:</label></li>
+<select name="country">
+<option selected=" value="Default">Please select a country</option>
+<option value="AF">Australia</option>
+<option value="AL">Canada</option>
+<option value="DZ">India</option>
+<option value="AS">Russia</option>
+<option value="AD">USA</option>
+</select><br>
+<li><label for="zip">ZIP Code:</label></li>
+<input type="text" name="zip" /><br>
+<li><select name="Gender">
+    <option selected="" value="Default">Gender</option>
+    <option value="AF">Male</option>
+    <option value="AL">Femlae</option>
+    </select></li><br>
+<li>Language:</li>
+<input type="checkbox" name="en" value="en" checked /><span>English</span><br>
+<input type="checkbox" name="nonen" value="noen" /><span>Non English</span><br>
+<li><label for="desc">About:</label></li>
+<textarea name="desc" id="desc"></textarea>
+<li><input type="submit" name="submit" value="Submit" /></li>
+</ul>
+</form>
+</div> 
+</body>
+</html>

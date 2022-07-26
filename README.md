@@ -13,4 +13,4 @@
 *Even they can grant, revoke permissions whatever students requirements are. <br/><br/>
 *There are registration tab also for those who are new to this site. <br/><br/>
 *There are Book section in which, students from outside from our college they can take benifites of some limited books. <br/><br/>
-*Hwlp, about, and many more things.<br/>
+*Help, about, and many more things.<br/>

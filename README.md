@@ -5,11 +5,11 @@
 ![4](https://user-images.githubusercontent.com/106417521/180913140-b411fb62-03a5-4061-a8d9-bfd8c99c5272.png)
 ![5](https://user-images.githubusercontent.com/106417521/180913161-c8f497a5-5748-48f3-bfac-4d3f4018f601.png)
 
-# Features 
+# Features:
 
-*Any students can login themselves
+*Any students can login themselves <br/><br/>
 *In admin login section admin can login by there login details and can add delete Or update the books. <br/><br/>
 *Even they can grant, revoke permissions whatever students requirements are. <br/><br/>
 *There are registration tab also for those who are new to this site. <br/><br/>
 *There are Book section in which, students from outside from our college they can take benifites of some limited books. <br/><br/>
-*Help, about, and many more things. <br/>mailbox
+*Help, about, and many more things. <br/>

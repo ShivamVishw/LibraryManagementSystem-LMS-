@@ -7,9 +7,9 @@
 
 # Features 
 
-Any students can login themselves
-In admin login section admin can login by there login details and can add delete Or update the books. \n
-Even they can grant, revoke permissions whatever students requirements are. \n
-There are registration tab also for those who are new to this site. \n
-There are Book section in which, students from outside from our college they can take benifites of some limited books. \n
-Help, about, and many more things. \n
+# Any students can login themselves
+# In admin login section admin can login by there login details and can add delete Or update the books. <br/>
+# Even they can grant, revoke permissions whatever students requirements are. <br/>
+# There are registration tab also for those who are new to this site. <br/>
+# There are Book section in which, students from outside from our college they can take benifites of some limited books. <br/>
+# Help, about, and many more things. <br/>

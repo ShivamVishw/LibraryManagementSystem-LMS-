@@ -7,10 +7,12 @@
 
 # Features:
 
-*Any students can login themselves <br/><br/>
-*After login they can borrow and return the books as per requirment.<br/><br/>
-*In admin login section admin can login by there login details and can add delete Or update the books. <br/><br/>
-*Even they can grant, revoke permissions whatever students requirements are. <br/><br/>
-*There are registration tab also for those who are new to this site. <br/><br/>
-*There are Book section in which, students from outside from our college they can take benifites of some limited books. <br/><br/>
-*Help, about, and many more things.<br/>
+<p style="font-size: 20px; background-color: rgb(231, 245, 243);"> <strong> Features: </strong><br>
+                       
+  *Any students can login themselves by there Id and password. <br>
+  *After login they can borrow and return the books as per requirment. <br>
+  *In admin login section admin can login by there login details and can add delete Or update the books. <br>
+  *Even they can grant, revoke permissions whatever students requirements are. <br>
+  *There are registration tab also for those who are new to this site. <br>
+  *There are Book section in which, students from outside from our college they can take benifites of some limited books. <br>
+  *Help, about, and many more things.....End</p>

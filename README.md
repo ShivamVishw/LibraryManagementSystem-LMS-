@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System(Frontend)
 
 * Home Page
 ![2](https://user-images.githubusercontent.com/106417521/180913109-c03131c2-a91c-4cbd-85f2-ea092e0d4948.png)
